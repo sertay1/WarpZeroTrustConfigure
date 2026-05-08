@@ -2,7 +2,7 @@
 
 <img src="logo_full.png" width="400" alt="WARP Configurator Logo">
 
-### Cloudflare WARP Zero Trust üzerinden engelli servislere tek tıkla, sorunsuz erişim.
+### Cloudflare WARP üzerinden engelli servislere tek tıkla, sorunsuz erişim.
 
 </div>
 
