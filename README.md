@@ -50,3 +50,13 @@ Uygulamayı çalıştırın, sol menüden **Yönlendirme** sekmesine gidip Disco
 Bilgisayarınızdaki Cloudflare WARP uygulamasını açın:
 `Ayarlar (Çark İkonu) → Account → Login with Cloudflare Zero Trust`
 Adım 1'de not aldığınız "Takım Adını" yazarak giriş yapın. Ortadaki büyük butona basıp bağlandığınızda her şey hazır!
+
+---
+
+## 📄 License / Lisans
+
+Telif Hakkı — © 2026 **SertAy**.  
+Bu proje kişisel ve ticari olmayan kullanım için açıktır. Projenin kaynak belirtilmeksizin paylaşılması, sahiplenilmesi veya satılması kesinlikle yasaktır. Detaylar için lütfen [LICENSE](LICENSE) dosyasını inceleyiniz.
+
+Copyright (c) 2026 **SertAy**.  
+This project is available for personal and non-commercial use with mandatory author attribution. Claiming authorship, unauthorized redistribution, or selling this software is strictly prohibited. Please see the [LICENSE](LICENSE) file for details.
